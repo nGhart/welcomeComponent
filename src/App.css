@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(48, 17, 78);
+  font-size: 30px;
+}
+.App {
+  text-align: center;
+  margin: 300px 50px auto;
+  padding: 5px;
+  background-color: blueviolet;  
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px rgb(37, 23, 50);
+}
+
+
